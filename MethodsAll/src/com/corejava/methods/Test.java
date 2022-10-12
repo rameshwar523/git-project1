@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 AllMethods obj=new AllMethods();
 System.out.println(obj.reverseStringCompare("dot was saw Tod"));
+		System.out.println();
 	}
 
 }
